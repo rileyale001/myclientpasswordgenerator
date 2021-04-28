@@ -24,13 +24,13 @@ The following was executed in the Javascript:
 - A conditional generate password randomly using a for loop and math floor.
 - THEN a generate variable so that the password is either displayed and rendered as a random password.
 
-![Screenshot](myclientpasswordgenerator/assets/images/hw3jscript1.PNG)
+![Screenshot](./myclientpasswordgenerator/assets/images/hw3jscript1.PNG)
 
-![Screenshot](myclientpasswordgenerator/assets/images/hw3jscript2.PNG)
+![Screenshot](./myclientpasswordgenerator/assets/images/hw3jscript2.PNG)
 
-![Screenshot](myclientpasswordgenerator/assets/images/hw3jscript3.PNG)
+![Screenshot](./myclientpasswordgenerator/assets/images/hw3jscript3.PNG)
 
-![Screenshot](myclientpasswordgenerator/assets/images/hw3jscript4.PNG)
+![Screenshot](./myclientpasswordgenerator/assets/images/hw3jscript4.PNG)
 
 
 
