@@ -91,7 +91,8 @@ for (const char of userPasswordCharacters) {
   errorMessage = "No input. Please select at least one criteria."
 }
 }
-// WHEN the password criteria is inputed. A conditional generate password randomly using a for loop and math floor.
+// WHEN the password criteria is inputed. 
+// A conditional generate password randomly using a for loop and math floor.
 let length = passwordOptioning.length
 for (let i = 0; i < passwordLength; i++) {
   let random = Math.floor(Math.random() * length)
